@@ -5,8 +5,8 @@
 ## 📊 Overall Progress
 - **Rooms Completed:** 1/500+
 - **Current Streak:** 1 days
-- **Points:** 0
-- **Rank:** #
+- **NO. of Badge:**
+- **Rank:** 15%
 
 ---
 
