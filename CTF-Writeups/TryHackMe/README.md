@@ -15,7 +15,7 @@
 ### 🟢 Pre-Security Path (1/5 Complete)
 | # | Room Name | Difficulty | Status | Date | Write-up |
 |---|-----------|------------|--------|------|----------|
-| 1 | Offensive Security Intro | Easy | ✅ | 02-01-2026 | dirb tool to find additional pages on websit  |
+| 1 | Offensive Security Intro | Easy | ✅ | 02-01-2026 | dirb tool to find additional pages on website  |
 | 2 | Intro to Defensive Security | Easy | ⏳ | - | - |
 | 3 | Careers in Cyber | Easy | ⏳ | - | - |
 | 4 | Linux Fundamentals Part 1 | Easy | ⏳ | - | - |
