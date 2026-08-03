@@ -1,6 +1,6 @@
 # 🏆 TryHackMe Completed Rooms
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR-USERNAME.png)](https://tryhackme.com/p/YOUR-USERNAME)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bibashgaire.png)](https://tryhackme.com/p/bibashgaire)
 
 ## 📊 Overall Progress
 - **Rooms Completed:** 1/500+
