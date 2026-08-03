@@ -3,8 +3,8 @@
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR-USERNAME.png)](https://tryhackme.com/p/YOUR-USERNAME)
 
 ## 📊 Overall Progress
-- **Rooms Completed:** 0/500+
-- **Current Streak:** 0 days
+- **Rooms Completed:** 1/500+
+- **Current Streak:** 1 days
 - **Points:** 0
 - **Rank:** #
 
@@ -12,10 +12,10 @@
 
 ## 📚 Learning Paths Progress
 
-### 🟢 Pre-Security Path (0/5 Complete)
+### 🟢 Pre-Security Path (1/5 Complete)
 | # | Room Name | Difficulty | Status | Date | Write-up |
 |---|-----------|------------|--------|------|----------|
-| 1 | Intro to Offensive Security | Easy | ⏳ | - | - |
+| 1 | Offensive Security Intro | Easy | ✅ | 02-01-2026 | - |
 | 2 | Intro to Defensive Security | Easy | ⏳ | - | - |
 | 3 | Careers in Cyber | Easy | ⏳ | - | - |
 | 4 | Linux Fundamentals Part 1 | Easy | ⏳ | - | - |
