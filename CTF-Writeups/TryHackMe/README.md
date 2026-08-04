@@ -3,8 +3,8 @@
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bibashgaire.png)](https://tryhackme.com/p/bibashgaire)
 
 ## 📊 Overall Progress
-- **Rooms Completed:** 1/500+
-- **Current Streak:** 1 days
+- **Rooms Completed:** 2/500+
+- **Current Streak:** 2 days
 - **NO. of Badge:** 10
 - **Rank:** 15%
 
@@ -15,8 +15,8 @@
 ### 🟢 Pre-Security Path (1/5 Complete)
 | # | Room Name | Difficulty | Status | Date | Write-up |
 |---|-----------|------------|--------|------|----------|
-| 1 | Offensive Security Intro | Easy | ✅ | 02-01-2026 | dirb tool to find additional pages on website  |
-| 2 | Intro to Defensive Security | Easy | ⏳ | - | - |
+| 1 | Offensive Security Intro | Easy | ✅ | 03-08-2026 | dirb tool to find additional pages on website  |
+| 2 | Defensive Security Intro | Easy | ✅ | 04-08-2026 | Protecting company network from bad actor |
 | 3 | Careers in Cyber | Easy | ⏳ | - | - |
 | 4 | Linux Fundamentals Part 1 | Easy | ⏳ | - | - |
 | 5 | Linux Fundamentals Part 2 | Easy | ⏳ | - | - |
