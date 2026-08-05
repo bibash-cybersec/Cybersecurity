@@ -1,4 +1,4 @@
-## Day 1 - [Today's Date]
+## Day 1 - [5th Aug 2026]
 
 ### What I Learned Today
 - How computers work (CPU, RAM, Storage)
