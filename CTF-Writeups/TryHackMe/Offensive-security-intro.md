@@ -1,24 +1,39 @@
-TryHackMe: Offensive Security Intro ✅
-Date Completed: [3rd Aug 2026]
-Difficulty: Easy
-Category: Linux
-Path: Pre-Security
-Time Taken: 30 mins
-Points Earned: 100
+# TryHackMe: Offensive Security Intro✅
 
-📋 Room Overview
-Introduction to Offensive Security. Covers basic of information gathering and finding hidden pages inside the web applications using dirb tool.
+**Date Completed:** [03 Aug 2026]  
+**Difficulty:** Easy  
+**Category:**   
+**Path:** Pre-Security  
+**Time Taken:** 30 mins
+**Points Earned:** 100  
 
-🎯 Tasks Completed
-Task 1: Introduction
- Read introduction
-Key learning: Linux is everywhere in cybersecurity
-Task 2: A Bit of Background on Linux
- Completed
-Key learning: Linux variants (Ubuntu, Kali, Parrot)
-Task 3: Interacting with Your First Linux Machine
- Completed
-Key learning: How to use the terminal
-Task 4: Running Your First Few Commands
- Completed
+---
+
+## 📋 Room Overview
+Introduction to Linux operating system.
+Covers basic commands, file navigation,
+and understanding the Linux filesystem.
+
+---
+
+## 🎯 Tasks Completed
+
+### Task 1: Introduction
+- [x] Read introduction
+- Key learning: Linux is everywhere in cybersecurity
+
+### Task 2: A Bit of Background on Linux
+- [x] Completed
+- Key learning: Linux variants (Ubuntu, Kali, Parrot)
+
+### Task 3: Interacting with Your First Linux Machine
+- [x] Completed
+- Key learning: How to use the terminal
+
+### Task 4: Running Your First Few Commands
+- [x] Completed
+
 Commands learned:
+```bash
+echo "Hello World"    # prints text
+whoami                # shows current user
