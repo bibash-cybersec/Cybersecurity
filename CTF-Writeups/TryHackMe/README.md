@@ -3,8 +3,8 @@
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bibashgaire.png)](https://tryhackme.com/p/bibashgaire)
 
 ## 📊 Overall Progress
-- **Rooms Completed:** 2/500+
-- **Current Streak:** 2 days
+- **Rooms Completed:** 3/500+
+- **Current Streak:** 1 days
 - **NO. of Badge:** 10
 - **Rank:** 15%
 
