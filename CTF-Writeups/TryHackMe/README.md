@@ -17,7 +17,7 @@
 |---|-----------|------------|--------|------|----------|
 | 1 | Offensive Security Intro | Easy | ✅ | 03-08-2026 | dirb tool to find additional pages on website  |
 | 2 | Defensive Security Intro | Easy | ✅ | 04-08-2026 | Protecting company network from bad actor |
-| 3 | Careers in Cyber | Easy | ✅ | 16-08-2026 | I found that lost of jobs in cyber sec are still unfilled |
+| 3 | Careers in Cyber | Easy | ✅ | 16-08-2026 | I found that lots of jobs in cyber sec are still unfilled |
 | 4 | Linux Fundamentals Part 1 | Easy | ⏳ | - | - |
 | 5 | Linux Fundamentals Part 2 | Easy | ⏳ | - | - |
 | 6 | Linux Fundamentals Part 3 | Easy | ⏳ | - | - |
