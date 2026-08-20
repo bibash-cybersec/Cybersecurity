@@ -12,13 +12,13 @@
 
 ## 📚 Learning Paths Progress
 
-### 🟢 Pre-Security Path (1/5 Complete)
+### 🟢 Pre-Security Path (4/5 Complete)
 | # | Room Name | Difficulty | Status | Date | Write-up |
 |---|-----------|------------|--------|------|----------|
 | 1 | Offensive Security Intro | Easy | ✅ | 03-08-2026 | dirb tool to find additional pages on website  |
 | 2 | Defensive Security Intro | Easy | ✅ | 04-08-2026 | Protecting company network from bad actor |
 | 3 | Careers in Cyber | Easy | ✅ | 16-08-2026 | I found that lots of jobs in cyber sec are still unfilled |
-| 4 | Linux Fundamentals Part 1 | Easy | ⏳ | - | - |
+| 4 | Linux Fundamentals Part 1 | Easy | ✅ | 20-8-2026 | learned ls, cd, whoami, echo, &, &&, >, >> commands |
 | 5 | Linux Fundamentals Part 2 | Easy | ⏳ | - | - |
 | 6 | Linux Fundamentals Part 3 | Easy | ⏳ | - | - |
 | 7 | Windows Fundamentals 1 | Easy | ⏳ | - | - |
@@ -57,8 +57,8 @@
 ---
 
 ## 🏅 Badges Earned
-<!-- Badges will show here as you earn them -->
-- None yet - starting journey!
+<!-- Badges will show here as I earn them -->
+- 
 
 ---
 
