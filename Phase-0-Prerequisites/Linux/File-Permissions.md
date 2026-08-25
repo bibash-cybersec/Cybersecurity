@@ -1,3 +1,5 @@
+# Linux Notes - Phase 0 [23 Aug 2026]
+
 ## Linux File Permission
 - Owner rwx = read, write, execute
 - Group rw- = read, write only no execute
