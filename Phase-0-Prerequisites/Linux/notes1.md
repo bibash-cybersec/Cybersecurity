@@ -1,7 +1,7 @@
 ## Linux File Permission
- Owner rwx = read, write, execute
- Group rw- = read, write only no execute
- Other r-- = read only
+- Owner rwx = read, write, execute
+- Group rw- = read, write only no execute
+- Other r-- = read only
 
  ## Permission values 
  - read = 4
