@@ -46,3 +46,27 @@ Note:
 2. g = group
 3. o = other
 4. a = all
+
+## Recursive change ( folder + everything inside it):
+ chmod -R 755 bibash-cybersec
+
+## Change owner:
+ chown bibash file.txt
+
+## Change group:
+ chown :security file.txt
+
+## Change owner and group
+ chown bibash:security file.txt
+
+## Check ownership
+ ls -la filename
+ stat filename ( special permission)
+
+ ## SUID ( set user ID ) -runs as file owner not executor shown 's' in owner execute position
+  -rwsr-xr-x (SUID set)
+  chmod u+s filename (add SUID for user)
+  chmod 4755 filename
+
+  # Why it matters in cybersecurity?
+  If a root-owned file has SUID set, anyone who runs it as root, attacker look for SUID files to esclate privilages 
