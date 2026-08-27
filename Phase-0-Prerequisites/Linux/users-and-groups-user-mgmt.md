@@ -51,12 +51,12 @@
   docker - can run docker( basically root)
 
   ### User information 
- - root:x:0:0:root:/root:/bin/bash
-    |   |  |  |   |      |        |______default shell
-    |   |  |  |   |      |_______________home directory
-    |   |  |  |   |______________________comment info
-    |   |  |  |__________________________GUID
-    |   |  |_____________________________UID
-    |   |________________________________password in shadow
-    |____________________________________username
-    -
+     root:x:0:0:root:/root:/bin/bash
+      |   |  |  |   |      |        |______default shell
+      |   |  |  |   |      |_______________home directory
+      |   |  |  |   |______________________comment info
+      |   |  |  |__________________________GUID
+      |   |  |_____________________________UID
+      |   |________________________________password in shadow
+      |____________________________________username
+    
