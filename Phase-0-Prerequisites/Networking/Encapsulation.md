@@ -11,5 +11,8 @@ Sending an email
 
 At the other end header are removed layer by layer until original email message received called Decapsulation.
 
-NOTE: sending - Encapsulation
-      receiving - Decapsulation 
+NOTE: 
+
+sending - Encapsulation
+
+receiving - Decapsulation 
