@@ -1,6 +1,5 @@
 # 🏆 TryHackMe Completed Rooms
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bibashgaire.png)](https://tryhackme.com/p/bibashgaire)
 
 ## 📊 Overall Progress
 - **Rooms Completed:** 3/500+
@@ -22,7 +21,7 @@
 | 5 | Linux Fundamentals Part 2 | Easy | ⏳ | - | - |
 | 6 | Linux Fundamentals Part 3 | Easy | ⏳ | - | - |
 | 7 | Windows Fundamentals 1 | Easy | ✅ | 21-08-2026 | learned file system, various setting, accounts and taskmanager |
-| 8 | Windows Fundamentals 2 | Easy | ⏳ | - | - |
+| 8 | Windows Fundamentals 2 | Easy | ✅ | 28-08-2026 | learned MSconfig, UAC setting, compmgmt, msinfo32, |
 | 9 | Windows Fundamentals 3 | Easy | ⏳ | - | - |
 | 10 | Network Fundamentals | Easy | ⏳ | - | - |
 
