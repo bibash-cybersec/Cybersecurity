@@ -11,7 +11,7 @@
 
 ## 📚 Learning Paths Progress
 
-### 🟢 Pre-Security Path (5/10 Complete)
+### 🟢 Pre-Security Path (3/5 Complete)
 | # | Room Name | Difficulty | Status | Date | Write-up |
 |---|-----------|------------|--------|------|----------|
 | 1 | Offensive Security Intro | Easy | ✅ | 03-08-2026 | dirb tool to find additional pages on website  |
