@@ -1,4 +1,5 @@
 ## Day 1 - [5th Aug 2026]
+<<<<<<< HEAD
 
 ## CPU - Central Processing Unit 
 CPU is most likely brain of the computer, it handles all the programs process and run
@@ -20,6 +21,8 @@ It process all graphics programs
 Input device are those which receive data from the user like keyboard, mouse, microphones, webcamera etc.
 Output device are those which shows data to the user like monitor, Projector, printer etc.
 
+=======
+>>>>>>> 56957d0 (First Python script)
 
 ### What I Learned Today
 - How computers work (CPU, RAM, Storage)
