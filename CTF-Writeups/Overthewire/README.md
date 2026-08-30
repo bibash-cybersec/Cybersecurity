@@ -28,10 +28,10 @@ I am using Bandit to strengthen my practical Linux and command-line skills as pa
 
 | Level    | Status        | Main Concepts      |
 | -------- | ------------- | ------------------ |
-| Level 0  | ✅ Completed   | SSH                |
-| Level 1  | ✅ Completed   | File handling      |
-| Level 2  | ✅ Completed   | Special characters |
-| Level 3  | ⬜ Not started | Hidden files       |
+| Level 0  | ✅ Completed  | SSH                |
+| Level 1  | ✅ Completed  | File handling      |
+| Level 2  | ✅ Completed  | Special characters |
+| Level 3  | ✅ Completed  | Hidden files       |
 | Level 4  | ⬜ Not started | File types         |
 | Level 5  | ⬜ Not started | Finding files      |
 | Level 6  | ⬜ Not started | File ownership     |
