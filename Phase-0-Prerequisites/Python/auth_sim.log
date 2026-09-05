@@ -1,0 +1,5 @@
+192.168.1.50 - SUCCESS - User login: admin
+192.168.1.105 - FAILED - User login: root
+192.168.1.105 - FAILED - User login: root
+192.168.1.105 - FAILED - User login: test
+192.168.1.200 - SUCCESS - User login: john
