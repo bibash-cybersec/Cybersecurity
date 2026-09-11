@@ -3,8 +3,7 @@
 The Client-Server Model
 
 Every time when we visit a website:
-
-
+```
 Our Browser (Client)                    Web Server
       │                                       │
       │──── HTTP Request ────────────────────▶│
@@ -14,9 +13,10 @@ Our Browser (Client)                    Web Server
       │◀─── HTTP Response ────────────────────│
       │     "HTTP/1.1 200 OK"                 │
       │     "<html>Hello World</html>"        │
+```
 
 HTTP Request Structure
-
+```
 GET /login HTTP/1.1              ← Request Line (Method, Path, Version)
 Host: example.com                ← Headers (metadata about the request)
 User-Agent: Mozilla/5.0
@@ -25,8 +25,10 @@ Content-Length: 27
 Cookie: session_id=abc123
 
 username=admin&password=secret   ← Body (data sent to server)
-HTTP Response Structure
+```
 
+HTTP Response Structure
+```
 HTTP/1.1 200 OK                  ← Status Line (Version, Code, Message)
 Content-Type: text/html          ← Headers
 Content-Length: 1234
@@ -35,7 +37,7 @@ Set-Cookie: session=xyz789
 <html>                           ← Body (actual content)
   <h1>Welcome</h1>
 </html>
-
+```
 
 HTTP Methods (CRITICAL for Web Security)
 
@@ -50,23 +52,32 @@ HEAD     | Like GET but no body       | No        | Reconnaissance
 OPTIONS  | Ask what methods allowed   | No        | CORS preflight
 TRACE    | Echo request back          | No        | XST attacks (rare)
 
-
+-
 HTTP Status Codes 
-
+-
 1xx - Informational
+
 ├── 100 Continue
 
+-
 2xx - Success ✅
+-
 ├── 200 OK (request succeeded)
+
 ├── 201 Created (resource created)
+
 └── 204 No Content
 
+-
+
 3xx - Redirection 🔄
+-
 ├── 301 Moved Permanently
 ├── 302 Found (temporary redirect)
 └── 304 Not Modified (cached)
 
 4xx - Client Error ❌
+-
 ├── 400 Bad Request (malformed)
 ├── 401 Unauthorized (not authenticated)
 ├── 403 Forbidden (authenticated but no permission)
@@ -75,12 +86,14 @@ HTTP Status Codes
 └── 429 Too Many Requests (rate limited)
 
 5xx - Server Error 💥
+-
 ├── 500 Internal Server Error
 ├── 502 Bad Gateway
 ├── 503 Service Unavailable
 └── 504 Gateway Timeout
 
 Security Relevance:
+-
 ├── 401 vs 403: Know the difference!
 │   401 = "Who are you?" (need to login)
 │   403 = "I know who you are, but you can't access this"
