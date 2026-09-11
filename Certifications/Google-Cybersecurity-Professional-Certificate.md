@@ -3,8 +3,6 @@
 - **Provider:** Google
 - **Platform:** Coursera
 - **Completed:** October 14, 2025
-- **Credential ID:** OX7XSBSO6BKD
-- **Credential:** https://coursera.org/share/4c20094c3f2e6088361dec9d28468ec9
 
 ## Overview
 
