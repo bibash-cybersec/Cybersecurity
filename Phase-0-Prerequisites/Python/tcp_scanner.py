@@ -1,11 +1,6 @@
 
-#📌 TOPIC 3: Building a Custom TCP Port Scanner in Python
 #Building a port scanner from scratch reinforces how the TCP transport layer functions programmatically.
 
-#Create a file named tcp_scanner.py inside your Kali VM:
-
-
-#!/usr/bin/env python3
 import socket
 import sys
 from datetime import datetime
